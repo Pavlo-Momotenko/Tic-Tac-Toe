@@ -3,7 +3,7 @@
 
 This is my first desktop mini-project :P
 
-##Review
+## Review
 
 1. You can choose game mode:
 ![Main menu image](./review/main_menu.png)
@@ -20,7 +20,7 @@ This is my first desktop mini-project :P
 5. Scores screen:
 ![Scores screen](./review/scores_screen.png)
 
-##Launching
+## Launching
 
 1. Clone this repository.
 2. `cd` into this directory.
