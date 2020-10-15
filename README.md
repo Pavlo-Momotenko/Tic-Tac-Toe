@@ -27,3 +27,8 @@ This is my first desktop mini-project :P
 3. `.\venv\Scripts\activate`
 4. `python ttt.py`
 5. Enjoy!
+
+or 
+
+1. Clone this repository.
+2. Open compiled `TicTacToe.exe` in TTT folder.
