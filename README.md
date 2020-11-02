@@ -24,7 +24,7 @@ This is my first desktop mini-project :P
 
 1. Clone this repository.
 2. `cd` into this directory.
-3. `.\venv\Scripts\activate`
+3. `\venv\Scripts\activate.bat`
 4. `python ttt.py`
 5. Enjoy!
 
